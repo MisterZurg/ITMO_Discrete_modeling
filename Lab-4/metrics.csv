@@ -1,0 +1,7 @@
+{'avg_wait_time': 0.202, 'prob_wait': 0.08, 'avg_service_time': 2.77, 'avg_wait_time_waiters': 2.525, 'avg_sys_time': 2.972, 'avg_time_arrivals': 19.7685245811652, 'prob_idle': 0.8563427030391039}
+{'avg_wait_time': 0.19, 'prob_wait': 0.082, 'avg_service_time': 2.7, 'avg_wait_time_waiters': 2.317073170731707, 'avg_sys_time': 2.89, 'avg_time_arrivals': 19.236071221584957, 'prob_idle': 0.859331040950297}
+{'avg_wait_time': 0.204, 'prob_wait': 0.092, 'avg_service_time': 2.786, 'avg_wait_time_waiters': 2.217391304347826, 'avg_sys_time': 2.99, 'avg_time_arrivals': 19.640091156173177, 'prob_idle': 0.8593213492223793}
+{'avg_wait_time': 0.232, 'prob_wait': 0.094, 'avg_service_time': 2.72, 'avg_wait_time_waiters': 2.4680851063829787, 'avg_sys_time': 2.952, 'avg_time_arrivals': 19.408259592182375, 'prob_idle': 0.8569324637071324}
+eps: 0.010
+ans: 0.207+-0.028
+R from: 1 to 500
